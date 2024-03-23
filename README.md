@@ -1,6 +1,6 @@
 # Restaurant-backend
 
-## Tehnologies
+## Technologies
 
 - Spring boot
 - Spring security
